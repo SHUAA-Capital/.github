@@ -19,9 +19,12 @@ This GitHub organization hosts the **new SHUAA corporate website** and related a
 
 | Repository | Purpose |
 |------------|---------|
-| `frontend` | Public marketing and corporate website |
-| `dashboard` | Internal / admin dashboard |
-| `backend` | APIs and platform services |
+| [`docs`](https://github.com/SHUAA-Capital/docs) | Product, architecture, and delivery documentation (source of truth) |
+| [`backend`](https://github.com/SHUAA-Capital/backend) | Laravel API and MySQL |
+| [`frontend`](https://github.com/SHUAA-Capital/frontend) | Public React site |
+| [`dashboard`](https://github.com/SHUAA-Capital/dashboard) | React admin / CMS |
+
+**Stack:** Laravel + MySQL · React (public site and dashboard)
 
 ## Links
 
