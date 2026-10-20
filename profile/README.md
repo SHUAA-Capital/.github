@@ -1,37 +1,47 @@
 # SHUAA Capital
 
-**A leading asset management and investment banking platform in the MENA region.**
+**SHUAA Capital psc** (Arabic: شعاع كابيتال) — a diversified financial services firm and regional **asset management and investment banking** platform. *SHUAA* means “ray” in Arabic; the name reflects the firm’s Arabian General Investment Company heritage.
 
-Born in the UAE and rooted in decades of regional expertise, [SHUAA Capital psc](https://www.shuaa.com/) has been at the forefront of financial innovation since 1979. We combine the agility of a modern platform with the depth of a seasoned regional network.
+Established in **Dubai on 25 April 1979**. Public joint stock company listed on the **Dubai Financial Market (DFM)** under ticker **SHUAA**. Headquarters: Dubai, United Arab Emirates.
 
 ## What we do
 
-SHUAA operates under two key business segments:
+The firm operates through three core divisions:
 
-- **Asset management** — public markets, private markets, real estate, and debt
-- **Investment banking** — advisory, capital markets, securities services, and sales & trading (fixed income, currencies, and commodities)
+- **Asset management** — public markets, private markets, real estate, and debt  
+- **Investment banking & advisory** — advisory, capital markets, and securities services  
+- **Capital markets** — sales and trading across fixed income, currencies, and commodities  
 
-Our mission is to create sustainable value for clients, employees, and shareholders by engineering innovative investment solutions and differentiated product offerings for institutional clients and high-net-worth individuals.
+**Mission:** Create sustainable value for clients, employees, and shareholders by engineering innovative investment solutions and differentiated product offerings for institutional clients and high-net-worth individuals.
 
-## This organization
+Public website: [shuaa.com](https://www.shuaa.com/)
 
-This GitHub organization hosts the **new SHUAA corporate website** and related applications:
+## This GitHub organization
+
+Private repositories for the **SHUAA corporate website program** (public site, staff CMS, and API). Product and architecture documentation is the source of truth:
 
 | Repository | Purpose |
 |------------|---------|
-| [`docs`](https://github.com/SHUAA-Capital/docs) | Product, architecture, and delivery documentation (source of truth) |
-| [`backend`](https://github.com/SHUAA-Capital/backend) | Laravel API and MySQL |
-| [`frontend`](https://github.com/SHUAA-Capital/frontend) | Public React site |
-| [`dashboard`](https://github.com/SHUAA-Capital/dashboard) | React admin / CMS |
+| [`docs`](https://github.com/SHUAA-Capital/docs) | Product, architecture, delivery, and company facts |
+| [`frontend`](https://github.com/SHUAA-Capital/frontend) | Public marketing and corporate website (React) |
+| [`dashboard`](https://github.com/SHUAA-Capital/dashboard) | Staff CMS, workflows, and previews (React) |
+| [`backend`](https://github.com/SHUAA-Capital/backend) | Laravel API, MySQL, business rules, integrations |
 
-**Stack:** Laravel + MySQL · React (public site and dashboard)
+**Stack:** Laravel · MySQL · React (public site and dashboard)
 
-## Links
+Start here: [docs/README.md](https://github.com/SHUAA-Capital/docs/blob/main/README.md)
 
-- Website: [shuaa.com](https://www.shuaa.com/)
-- Contact: [info@shuaa.com](mailto:info@shuaa.com)
-- Investor relations: [ir@shuaa.com](mailto:ir@shuaa.com)
+## Contact
+
+| | |
+|---|---|
+| General | [info@shuaa.com](mailto:info@shuaa.com) |
+| Investor relations | [ir@shuaa.com](mailto:ir@shuaa.com) |
+| Head office | SHUAA Capital psc — The H Hotel Dubai, Office Tower, 15th Floor, Office No. 1502, P.O. Box 31045, Dubai, UAE |
+| Tel | +971 4 330 3600 |
+
+**Regulation (parent):** UAE Capital Market Authority / Securities and Commodities Authority (SCA) — financial investment company, registration **703036**, commercial license **200219**.
 
 ---
 
-*Head office: The H Hotel Dubai, Office Tower, 15th Floor, Dubai, United Arab Emirates*
+Documentation in this organization is for the website engineering program. It is not an offer, solicitation, or regulated marketing material. Verify figures and legal copy against [shuaa.com](https://www.shuaa.com/) and IR before external publication.
