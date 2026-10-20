@@ -1,6 +1,6 @@
 # SHUAA Capital
 
-**SHUAA Capital psc** (Arabic: شعاع كابيتال) — a diversified financial services firm and regional **asset management and investment banking** platform. *SHUAA* means “ray” in Arabic; the name reflects the firm’s Arabian General Investment Company heritage.
+**SHUAA Capital psc** (Arabic: شعاع كابيتال) — a diversified financial services firm and regional **asset management and investment banking** platform. *SHUAA* means “beam” (shaft of light) in Arabic; the name reflects the firm’s Arabian General Investment Company heritage.
 
 Established in **Dubai on 25 April 1979**. Public joint stock company listed on the **Dubai Financial Market (DFM)** under ticker **SHUAA**. Headquarters: Dubai, United Arab Emirates.
 
